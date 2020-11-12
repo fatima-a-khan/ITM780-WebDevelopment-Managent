@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+
+img {
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+
+header {
+	float: right;
+}
+
+nav id = "header" {
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+body {
+	
+	clear:both;
+	font-size: 12pt;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+	background-color: white;
+	color: black;
+	
+	margin-left: 11pt;
+	margin-right: 11pt;
+	margin-bottom: 11pt;
+	margin-top: 11pt;
+	
+}
+
+h1{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 35px;
+	color:black;
+}
+
+h2 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 29px;
+	color:black;
+	text-align: center;
+}
+
+h3 {
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 23px;
+	color:black;
+}
+
+
+p {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 14px;
+	color:black;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: grey;
+}
+
+
+a:hover {
+  color: grey;
+}
+
+a:active {
+  color: grey;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border: 1px solid black;
+	
+}
+
+td{
+    padding-bottom: 15pt;
+}
+
+/* body.html(height: 100%;)
+nav id = "list"(
+	background-color: #f79F79;
+	position: absolute;
+	width: 150px;
+	height: 100%;
+)
+av a(
+	padding:15px;
+	display: block;
+	font-size: 25pt;
+	color: #5855E;
+)
+nav a: hover(
+	color:#f1f1f1;
+) */
+
